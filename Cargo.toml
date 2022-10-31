@@ -1,5 +1,5 @@
 [package]
-name = "plotly_heat_map"
+name = "rs_plotly_heatmap"
 version = "0.1.0"
 edition = "2021"
 

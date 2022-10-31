@@ -445,13 +445,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "plotly_heat_map"
-version = "0.1.0"
-dependencies = [
- "plotly",
-]
-
-[[package]]
 name = "ppv-lite86"
 version = "0.2.16"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -513,6 +506,13 @@ checksum = "32cb0b9bc82b0a0876c2dd994a7e7a2683d3e7390ca40e6886785ef0c7e3ee31"
 dependencies = [
  "num-traits",
  "rand",
+]
+
+[[package]]
+name = "rs_plotly_heatmap"
+version = "0.1.0"
+dependencies = [
+ "plotly",
 ]
 
 [[package]]
